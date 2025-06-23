@@ -64,6 +64,7 @@ env/
 *.env
 .env.*
 *.local
+config.py
 settings.py
 
 # MacOS / Windows / 기타 시스템 파일
